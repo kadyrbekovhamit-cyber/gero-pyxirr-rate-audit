@@ -1,0 +1,47 @@
+{
+  "created_utc": "2026-09-13T09:48:18.642480+00:00",
+  "upstream_commit": "5f31a85684051fb6badb542afba0ac1af5a68f9c",
+  "source_url": "https://github.com/Anexen/pyxirr",
+  "pypi_latest_checked": "0.10.8",
+  "release_wheel_verified_against_pypi_sha256": true,
+  "release_wheel_url": "https://files.pythonhosted.org/packages/f0/f3/b86883ef9d82f957b81c19d5ee66dc1665cb324203daadc831905bc0edbe/pyxirr-0.10.8-cp312-cp312-macosx_11_0_arm64.whl",
+  "python": "3.12.13",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "rust_version": "rustc 1.98.1 (48a229cea 2026-09-01)",
+  "source_hashes": {
+    "src/core/periodic.rs": {
+      "baseline": "322a32d40aaecaf9531a8e09ccd5a5fc978715f891f244605e7a51acb3d4d554",
+      "corrected": "bb87a3ca4756612c582bf78ddebaa419a08b04ae6aca23bf9288f3215cb37092"
+    },
+    "tests/test_periodic.rs": {
+      "baseline": "6d199c02e1ab6638c184405de27bd507cb17f4a9e6a1de640e8d44c6870a2cd6",
+      "corrected": "30d699ac849107acd4210c1710bccbb73a886391b762da5e13beaa5fe2640526"
+    }
+  },
+  "cargo_lock_sha256": "20da126bb712896bdb537948fea96305f1ba04140d9a17874511706daf79e90e",
+  "wheels": {
+    "baseline": {
+      "filename": "pyxirr-0.10.8-cp312-cp312-macosx_11_0_arm64.whl",
+      "sha256": "1e25c9e572fcabfd92f4debd51b90fd18c0f66121c3a82159a14f79998e41420",
+      "size": 524041
+    },
+    "corrected": {
+      "filename": "pyxirr-0.10.8-cp312-cp312-macosx_11_0_arm64.whl",
+      "sha256": "8228fc36657b61c200886f09c4af5ed4a89d8a825de2db3ff5e87cf35de80937",
+      "size": 527007
+    },
+    "release": {
+      "filename": "pyxirr-0.10.8-cp312-cp312-macosx_11_0_arm64.whl",
+      "sha256": "738eece5ccf055523ccb9ca8933719c65432c22c408111782cee4000fe4f696c",
+      "size": 453672
+    }
+  },
+  "candidate_patch_sha256": "881a7f510bb3ea6a094d94f95934bbc54febb3230b8345b2507072a8ebb489e1",
+  "patch_replay_matches_candidate": true,
+  "native_tests_passed": 242,
+  "main_grid_candidate_passed": 255,
+  "series_boundary_passed": 154,
+  "mutation_assertions_failed_as_expected": 5,
+  "single_worker": true,
+  "publication_status": "local_only"
+}

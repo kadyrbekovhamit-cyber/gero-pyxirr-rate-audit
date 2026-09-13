@@ -1,0 +1,87 @@
+{
+  "checked_at": "2026-09-13T10:53:42.138548+00:00",
+  "main": "5f31a85684051fb6badb542afba0ac1af5a68f9c",
+  "release": "0.10.8",
+  "rate_issues": [
+    {
+      "number": 77,
+      "title": "fix: preserve payment identity in first annuity-due period",
+      "url": "https://github.com/Anexen/pyxirr/pull/77"
+    },
+    {
+      "number": 72,
+      "title": "Wrong results on clean trade record dataset",
+      "url": "https://github.com/Anexen/pyxirr/issues/72"
+    },
+    {
+      "number": 65,
+      "title": "xirr function returns None",
+      "url": "https://github.com/Anexen/pyxirr/issues/65"
+    },
+    {
+      "number": 60,
+      "title": "pyxirr bug",
+      "url": "https://github.com/Anexen/pyxirr/issues/60"
+    },
+    {
+      "number": 58,
+      "title": "Remove \"both negative and positive value\" requirement for XNPV",
+      "url": "https://github.com/Anexen/pyxirr/issues/58"
+    },
+    {
+      "number": 57,
+      "title": "Control Xirr accuracy",
+      "url": "https://github.com/Anexen/pyxirr/issues/57"
+    },
+    {
+      "number": 42,
+      "title": "Interest in adding private equity metrics?",
+      "url": "https://github.com/Anexen/pyxirr/issues/42"
+    },
+    {
+      "number": 21,
+      "title": "`ipmt()` and `ppmt()` do not accept an array as `per`",
+      "url": "https://github.com/Anexen/pyxirr/issues/21"
+    },
+    {
+      "number": 36,
+      "title": "Vectorization",
+      "url": "https://github.com/Anexen/pyxirr/pull/36"
+    },
+    {
+      "number": 31,
+      "title": "Weird values for xirr when too close to zero",
+      "url": "https://github.com/Anexen/pyxirr/issues/31"
+    },
+    {
+      "number": 25,
+      "title": "Payment scenarios where IRR returns None",
+      "url": "https://github.com/Anexen/pyxirr/issues/25"
+    },
+    {
+      "number": 17,
+      "title": "Implement rate",
+      "url": "https://github.com/Anexen/pyxirr/issues/17"
+    },
+    {
+      "number": 18,
+      "title": "Rate, IPMT, PPMT",
+      "url": "https://github.com/Anexen/pyxirr/pull/18"
+    },
+    {
+      "number": 24,
+      "title": "Negative IRR",
+      "url": "https://github.com/Anexen/pyxirr/issues/24"
+    },
+    {
+      "number": 10,
+      "title": "pass start_date (present \"moment\") and end_date (future \"moment\") to XFV",
+      "url": "https://github.com/Anexen/pyxirr/issues/10"
+    },
+    {
+      "number": 7,
+      "title": "add `XFV` function",
+      "url": "https://github.com/Anexen/pyxirr/issues/7"
+    }
+  ]
+}
