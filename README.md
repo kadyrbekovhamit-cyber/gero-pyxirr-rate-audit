@@ -4,9 +4,7 @@ Independent GERO research by Xamit Kadirbekov, 13 September 2026. Synthetic inpu
 
 [Technical report](REPORT.md) · [Evidence archive](gero-pyxirr-rate-evidence-2026-09-13.zip) · [Candidate patch](candidate.patch)
 
-GERO page: prepared; awaiting restoration of Vercel access. The complete evidence and video are available in this repository.
-
-GERO page: prepared; awaiting restoration of Vercel access. The complete evidence and video are available in this repository.
+[Read the report and watch the 41-second English video on GERO](https://www.gero.uz/research/articles/pyxirr-rate-vector-convergence.html)
 
 ## What is demonstrated
 
